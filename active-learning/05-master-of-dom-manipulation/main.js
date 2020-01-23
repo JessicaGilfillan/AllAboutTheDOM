@@ -5,7 +5,7 @@
 
 //2.) Remove the class attribute on the header element 
 
-//3.) Change the href attribute in the image element to 'cat2.jpg'
+//3.) Change the src attribute in the image element to 'cat2.jpg'
 
 //4.) Remove the footer element 
 
