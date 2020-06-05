@@ -20,7 +20,7 @@
     }
     else if (userAccess === 2) {
       h2.textContent = "Activity Two Challenge - Node or Not? ";
-      p.innerHTML = "Each node in the DOM tree is an object with methods and properties. The document, elements, pieces of text and even whitespace in the HTML is represented by it’s own DOM node. For this challenge, navigate to <a href=\"https://github.com/JessicaGilfillan/node_or_not\"> https://github.com/JessicaGilfillan/node_or_not </a> and download the code provided. Identify each node with a comment and then include a number at the bottom detailing the total amount of nodes on the page (comments not included.) <strong>This is Part Two of Lab 4.</strong> ";
+      p.innerHTML = "Each node in the DOM tree is an object with methods and properties. The document, elements, pieces of text and even whitespace in the HTML is represented by it’s own DOM node. For this challenge, navigate to <a href=\"https://github.com/JessicaGilfillan/node_or_not\"> https://github.com/JessicaGilfillan/node_or_not </a> and download the code provided. Identify each node with a comment and then include a comment at the bottom of the page detailing the total amount of nodes on the page (comments not included.) <strong>This is Part Two of Lab 4.</strong> ";
     }
     else if(userAccess === 3) {
       h2.textContent = "Activity Three Challenge : Select That Element";
